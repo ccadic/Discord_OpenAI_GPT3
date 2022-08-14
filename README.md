@@ -16,7 +16,7 @@ En pratique , il vous faut une machine Windows ou Linyx (plus facile sous linux)
 Ce script a été développé pour Python 3.10 et tourne aussi sur Python 3.9x
 
 
-Installer le script discord-bot-GPT3-Tuto.py sur votre répertoire user linux. 
+Installez le script discord-bot-GPT3-Tuto.py sur votre répertoire user linux. 
 Vérifier que le fichier est accessible à l'usager
 
 Changez les 2 lignes 13 et 40 avec la clé OPENAI et le token Discord
