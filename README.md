@@ -2,6 +2,8 @@
 Petit tutoriel en Français pour installer un bot openai sur un canal Discord
 Licence GPL3
 
+![alt text](http://url/to/img.png)
+
 Pour créer un bot sur Discord
 Je vous laisse lire ce tuto pour créer un usager BOT, obtenir un tocen et l'enregistrer sur un serveur discord.
 C'est expliqué partout et ne présente par plus d'intérêt que ca . 
