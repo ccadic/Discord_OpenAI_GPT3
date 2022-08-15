@@ -25,5 +25,11 @@ Changez les 2 lignes 13 et 40 avec la clé OPENAI et le token Discord
 Lancez le script via python :  python3 ./discord-bot-GPT3-Tuto.py
 
 C'est tout.
+Commme vous pouvez vous rendre compte, le script python est d'une simplicité biblique.
+
+
+[![Watch the video](https://i9.ytimg.com/vi/sUbHxGtiX4A/mq2.jpg?sqp=CICZ5pcG&rs=AOn4CLAes1DRKnuDePoqGwE4D6w9UWE_ig)](https://youtu.be/sUbHxGtiX4A)
+
+
 
 
